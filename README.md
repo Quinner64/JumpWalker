@@ -6,3 +6,5 @@ CSV file contains the labels (‘walking’ or ‘jumping’) for the correspond
 classification purposes, the system will use a simple classifier, i.e., logistic regression.
 
 The app used to collect acceleration data is the "Phyphox" using the accerleration (without g).
+
+Run Parts in order for the project to work properly.
